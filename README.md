@@ -1,2 +1,1 @@
-# ddos-machine-guncelleme-master
-#Linux
+Coder : Seyit Mehmet Kiren
